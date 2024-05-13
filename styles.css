@@ -1,0 +1,54 @@
+.comum {
+    color: white;
+    display: flex;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    max-width: 650px;
+    max-height: 600px;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black;
+}
+
+.titulo {
+    padding-left: 20px;
+}
+
+.item {
+    background-color: rgb(4, 197, 4);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 25px;
+    box-shadow: inset 1px -5px 10px 5px #197702;
+}
+
+.header {
+    background-color: rgb(48, 164, 241);
+    box-shadow: inset 1px -5px 10px 5px #015186;
+}
+
+.linha {
+    display: inline-flex;
+}
+
+.main {
+    display: grid;
+    background-color: chartreuse;
+    width: 450px;
+    height: 300px;
+    box-shadow: inset 1px -5px 10px 5px #07b401;
+
+}
+
+.sidebar {
+    background-color: orange;
+    width: 160px;
+    height: 300px;
+    box-shadow: inset 1px -5px 10px 5px #a14f01;
+
+}
+
+.footer {
+    background-color: rgb(44, 74, 245);
+    box-shadow: inset 1px -5px 10px 5px #010386;
+}
